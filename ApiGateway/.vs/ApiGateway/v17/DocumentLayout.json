@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4EB306-B568-44DB-B730-B31AA4F30BFF}|ApiGateway\\ApiGateway.csproj|c:\\users\\tupac\\source\\repos\\apigateway\\apigateway\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4EB306-B568-44DB-B730-B31AA4F30BFF}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2D7045-F12F-4589-9B12-B7D059B41A7B}|Models\\Models.csproj|c:\\users\\tupac\\source\\repos\\apigateway\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2D7045-F12F-4589-9B12-B7D059B41A7B}|Models\\Models.csproj|solutionrelative:models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2D7045-F12F-4589-9B12-B7D059B41A7B}|Models\\Models.csproj|c:\\users\\tupac\\source\\repos\\apigateway\\models\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2D7045-F12F-4589-9B12-B7D059B41A7B}|Models\\Models.csproj|solutionrelative:models\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5064E5F6-9917-4CF1-914D-C751C8A3B06F}|Services\\Services.csproj|c:\\users\\tupac\\source\\repos\\apigateway\\services\\apigatewayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5064E5F6-9917-4CF1-914D-C751C8A3B06F}|Services\\Services.csproj|solutionrelative:services\\apigatewayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4EB306-B568-44DB-B730-B31AA4F30BFF}|ApiGateway\\ApiGateway.csproj|c:\\users\\tupac\\source\\repos\\apigateway\\apigateway\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4EB306-B568-44DB-B730-B31AA4F30BFF}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4EB306-B568-44DB-B730-B31AA4F30BFF}|ApiGateway\\ApiGateway.csproj|c:\\users\\tupac\\source\\repos\\apigateway\\apigateway\\controllers\\activitylogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4EB306-B568-44DB-B730-B31AA4F30BFF}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\controllers\\activitylogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4EB306-B568-44DB-B730-B31AA4F30BFF}|ApiGateway\\ApiGateway.csproj|c:\\users\\tupac\\source\\repos\\apigateway\\apigateway\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4EB306-B568-44DB-B730-B31AA4F30BFF}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4EB306-B568-44DB-B730-B31AA4F30BFF}|ApiGateway\\ApiGateway.csproj|c:\\users\\tupac\\source\\repos\\apigateway\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4EB306-B568-44DB-B730-B31AA4F30BFF}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\Models\\UserLogin.cs",
+              "RelativeToolTip": "Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:49:52.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\Models\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\Models\\ErrorDetails.cs",
+              "RelativeToolTip": "Models\\ErrorDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:49:20.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiGatewayService.cs",
+              "DocumentMoniker": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\Services\\ApiGatewayService.cs",
+              "RelativeDocumentMoniker": "Services\\ApiGatewayService.cs",
+              "ToolTip": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\Services\\ApiGatewayService.cs",
+              "RelativeToolTip": "Services\\ApiGatewayService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:47:13.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActivityLogController.cs",
+              "DocumentMoniker": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\ApiGateway\\Controllers\\ActivityLogController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\ActivityLogController.cs",
+              "ToolTip": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\ApiGateway\\Controllers\\ActivityLogController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\ActivityLogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:34:38.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\ApiGateway\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\ApiGateway\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\HealthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:34:29.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\ApiGateway\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\ApiGateway\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:05:28.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T21:56:57.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GatewayController.cs",
+              "DocumentMoniker": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\ApiGateway\\Controllers\\GatewayController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\GatewayController.cs",
+              "ToolTip": "C:\\Users\\tupac\\source\\repos\\ApiGateway\\ApiGateway\\Controllers\\GatewayController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\GatewayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T21:51:03.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

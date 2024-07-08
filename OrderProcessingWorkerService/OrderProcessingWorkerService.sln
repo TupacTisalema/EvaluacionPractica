@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderProcessingWorkerService", "OrderProcessingWorkerService\OrderProcessingWorkerService.csproj", "{B84788AB-D49F-40DE-BEF9-ED45FC559095}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{41E576FF-27AD-436E-9E0B-598DB0A3143D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{4219C418-4FDA-4568-8A48-888586103BE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{86D9F59A-016D-483F-87DC-BC3F408E9A87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderProcessingWorkerService.Tests", "OrderProcessingWorkerService.Tests\OrderProcessingWorkerService.Tests.csproj", "{F12AF86C-9F2E-43AA-B3A4-D91CE39EBCDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderProcessingWorkerService.IntegrationTests", "OrderProcessingWorkerService.IntegrationTests\OrderProcessingWorkerService.IntegrationTests.csproj", "{6400C765-179D-4D74-B913-911F0192F4A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B84788AB-D49F-40DE-BEF9-ED45FC559095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84788AB-D49F-40DE-BEF9-ED45FC559095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84788AB-D49F-40DE-BEF9-ED45FC559095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84788AB-D49F-40DE-BEF9-ED45FC559095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E576FF-27AD-436E-9E0B-598DB0A3143D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E576FF-27AD-436E-9E0B-598DB0A3143D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E576FF-27AD-436E-9E0B-598DB0A3143D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E576FF-27AD-436E-9E0B-598DB0A3143D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4219C418-4FDA-4568-8A48-888586103BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4219C418-4FDA-4568-8A48-888586103BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4219C418-4FDA-4568-8A48-888586103BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4219C418-4FDA-4568-8A48-888586103BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D9F59A-016D-483F-87DC-BC3F408E9A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D9F59A-016D-483F-87DC-BC3F408E9A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D9F59A-016D-483F-87DC-BC3F408E9A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D9F59A-016D-483F-87DC-BC3F408E9A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F12AF86C-9F2E-43AA-B3A4-D91CE39EBCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12AF86C-9F2E-43AA-B3A4-D91CE39EBCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12AF86C-9F2E-43AA-B3A4-D91CE39EBCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12AF86C-9F2E-43AA-B3A4-D91CE39EBCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6400C765-179D-4D74-B913-911F0192F4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6400C765-179D-4D74-B913-911F0192F4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6400C765-179D-4D74-B913-911F0192F4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6400C765-179D-4D74-B913-911F0192F4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EFD234D-78D7-4A67-A8E4-E714471D02FC}
+	EndGlobalSection
+EndGlobal

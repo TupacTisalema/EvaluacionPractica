@@ -1,0 +1,376 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService.IntegrationTests\\OrderProcessingWorkerService.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Interfaces\\Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "C:\\Users\\tupac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tupac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\tupac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tupac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService.IntegrationTests\\OrderProcessingWorkerService.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService.IntegrationTests\\OrderProcessingWorkerService.IntegrationTests.csproj",
+        "projectName": "OrderProcessingWorkerService.IntegrationTests",
+        "projectPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService.IntegrationTests\\OrderProcessingWorkerService.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\tupac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tupac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Models\\Models.csproj"
+              },
+              "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService\\OrderProcessingWorkerService.csproj": {
+                "projectPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService\\OrderProcessingWorkerService.csproj"
+              },
+              "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Aspire.Hosting.Testing": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService\\OrderProcessingWorkerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService\\OrderProcessingWorkerService.csproj",
+        "projectName": "OrderProcessingWorkerService",
+        "projectPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService\\OrderProcessingWorkerService.csproj",
+        "packagesPath": "C:\\Users\\tupac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tupac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Interfaces\\Interfaces.csproj"
+              },
+              "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Models\\Models.csproj"
+              },
+              "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Cronos": {
+              "target": "Package",
+              "version": "[0.8.4, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\tupac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tupac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Interfaces\\Interfaces.csproj"
+              },
+              "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

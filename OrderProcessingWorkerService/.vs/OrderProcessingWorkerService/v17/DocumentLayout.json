@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F12AF86C-9F2E-43AA-B3A4-D91CE39EBCDA}|OrderProcessingWorkerService.Tests\\OrderProcessingWorkerService.Tests.csproj|c:\\users\\tupac\\source\\repos\\orderprocessingworkerservice\\orderprocessingworkerservice.tests\\workertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12AF86C-9F2E-43AA-B3A4-D91CE39EBCDA}|OrderProcessingWorkerService.Tests\\OrderProcessingWorkerService.Tests.csproj|solutionrelative:orderprocessingworkerservice.tests\\workertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84788AB-D49F-40DE-BEF9-ED45FC559095}|OrderProcessingWorkerService\\OrderProcessingWorkerService.csproj|c:\\users\\tupac\\source\\repos\\orderprocessingworkerservice\\orderprocessingworkerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84788AB-D49F-40DE-BEF9-ED45FC559095}|OrderProcessingWorkerService\\OrderProcessingWorkerService.csproj|solutionrelative:orderprocessingworkerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D9F59A-016D-483F-87DC-BC3F408E9A87}|Services\\Services.csproj|c:\\users\\tupac\\source\\repos\\orderprocessingworkerservice\\services\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D9F59A-016D-483F-87DC-BC3F408E9A87}|Services\\Services.csproj|solutionrelative:services\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12AF86C-9F2E-43AA-B3A4-D91CE39EBCDA}|OrderProcessingWorkerService.Tests\\OrderProcessingWorkerService.Tests.csproj|c:\\users\\tupac\\source\\repos\\orderprocessingworkerservice\\orderprocessingworkerservice.tests\\orderprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12AF86C-9F2E-43AA-B3A4-D91CE39EBCDA}|OrderProcessingWorkerService.Tests\\OrderProcessingWorkerService.Tests.csproj|solutionrelative:orderprocessingworkerservice.tests\\orderprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12AF86C-9F2E-43AA-B3A4-D91CE39EBCDA}|OrderProcessingWorkerService.Tests\\OrderProcessingWorkerService.Tests.csproj|c:\\users\\tupac\\source\\repos\\orderprocessingworkerservice\\orderprocessingworkerservice.tests\\orderrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12AF86C-9F2E-43AA-B3A4-D91CE39EBCDA}|OrderProcessingWorkerService.Tests\\OrderProcessingWorkerService.Tests.csproj|solutionrelative:orderprocessingworkerservice.tests\\orderrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D9F59A-016D-483F-87DC-BC3F408E9A87}|Services\\Services.csproj|c:\\users\\tupac\\source\\repos\\orderprocessingworkerservice\\services\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D9F59A-016D-483F-87DC-BC3F408E9A87}|Services\\Services.csproj|solutionrelative:services\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Services\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Services\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Services\\OrderRepository.cs",
+              "RelativeToolTip": "Services\\OrderRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:01:16.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService\\Worker.cs",
+              "RelativeDocumentMoniker": "OrderProcessingWorkerService\\Worker.cs",
+              "ToolTip": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService\\Worker.cs",
+              "RelativeToolTip": "OrderProcessingWorkerService\\Worker.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAwFcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:57:02.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderProcessorTests.cs",
+              "DocumentMoniker": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService.Tests\\OrderProcessorTests.cs",
+              "RelativeDocumentMoniker": "OrderProcessingWorkerService.Tests\\OrderProcessorTests.cs",
+              "ToolTip": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService.Tests\\OrderProcessorTests.cs",
+              "RelativeToolTip": "OrderProcessingWorkerService.Tests\\OrderProcessorTests.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA8wEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:48:03.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService.Tests\\OrderRepositoryTests.cs",
+              "RelativeDocumentMoniker": "OrderProcessingWorkerService.Tests\\OrderRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService.Tests\\OrderRepositoryTests.cs",
+              "RelativeToolTip": "OrderProcessingWorkerService.Tests\\OrderRepositoryTests.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:17:04.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerTests.cs",
+              "DocumentMoniker": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService.Tests\\WorkerTests.cs",
+              "RelativeDocumentMoniker": "OrderProcessingWorkerService.Tests\\WorkerTests.cs",
+              "ToolTip": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\OrderProcessingWorkerService.Tests\\WorkerTests.cs",
+              "RelativeToolTip": "OrderProcessingWorkerService.Tests\\WorkerTests.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAYwFAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:17:27.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Services\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "Services\\OrderProcessor.cs",
+              "ToolTip": "C:\\Users\\tupac\\source\\repos\\OrderProcessingWorkerService\\Services\\OrderProcessor.cs",
+              "RelativeToolTip": "Services\\OrderProcessor.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:51:26.086Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
